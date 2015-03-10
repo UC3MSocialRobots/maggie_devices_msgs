@@ -1,0 +1,12 @@
+#
+# Move an eyelid by an understable string
+# Available position strings:
+# - open
+# - close
+# - normal
+# - wink_left
+# - wink_right
+#
+
+string position
+---

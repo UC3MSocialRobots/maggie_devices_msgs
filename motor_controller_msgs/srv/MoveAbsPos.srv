@@ -1,0 +1,6 @@
+#
+# Move a motor to absolute position
+#
+
+int32 position
+---
