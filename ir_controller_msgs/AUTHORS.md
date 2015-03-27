@@ -11,4 +11,4 @@ ir_controller_msgs package was designed and developed by the Social Robots Group
 
 ### Thanks
 
-[See all Github contributors](https://github.com/UC3MSocialRobots/maggie_devices/contributors)
+[See all Github contributors](https://github.com/UC3MSocialRobots/maggie_devices_msgs/contributors)

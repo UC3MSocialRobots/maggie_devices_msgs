@@ -11,4 +11,4 @@ maggie_devices_msgs metapackage was designed and developed by the Social Robots 
 
 ### Thanks
 
-[See all Github contributors](https://github.com/UC3MSocialRobots/maggie_devices/contributors)
+[See all Github contributors](https://github.com/UC3MSocialRobots/maggie_devices_msgs/contributors)
