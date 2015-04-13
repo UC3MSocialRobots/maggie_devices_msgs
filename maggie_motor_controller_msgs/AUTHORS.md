@@ -1,6 +1,6 @@
 # Authors and Contributors
 
-motor_controller_msgs package was designed and developed by the Social Robots Group at Robotics Lab, UC3M (Spain).
+maggie_motor_controller_msgs package was designed and developed by the Social Robots Group at Robotics Lab, UC3M (Spain).
 
 ### Current Team
 
