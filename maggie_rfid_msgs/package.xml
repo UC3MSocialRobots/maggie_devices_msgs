@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-    <name>rfid_msgs</name>
+    <name>maggie_rfid_msgs</name>
     <version>0.0.1</version>
     <description>
         rfid messages and services

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(ir_controller_msgs)
+project(maggie_ir_controller_msgs)
 
 ## Find catkin macros and libraries
 find_package(catkin REQUIRED COMPONENTS message_generation)

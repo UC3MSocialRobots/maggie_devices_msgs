@@ -29,10 +29,10 @@
     <!-- Dependencies can be catkin packages or system dependencies -->
     <buildtool_depend>catkin</buildtool_depend>
 
-    <run_depend>eyelids_msgs</run_depend>
-    <run_depend>ir_controller_msgs</run_depend>
-    <run_depend>motor_controller_msgs</run_depend>
-    <run_depend>rfid_msgs</run_depend>
+    <run_depend>maggie_eyelids_msgs</run_depend>
+    <run_depend>maggie_ir_controller_msgs</run_depend>
+    <run_depend>maggie_motor_controller_msgs</run_depend>
+    <run_depend>maggie_rfid_msgs</run_depend>
 
 
     <!-- The export tag contains other, unspecified, tags -->

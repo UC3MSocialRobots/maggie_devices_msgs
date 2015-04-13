@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-    <name>ir_controller_msgs</name>
+    <name>maggie_ir_controller_msgs</name>
     <version>0.0.1</version>
     <description>
         ir_controller messages and services

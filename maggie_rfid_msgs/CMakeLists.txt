@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(rfid_msgs)
+project(maggie_rfid_msgs)
 
 ## Find catkin macros and libraries
 find_package(catkin REQUIRED COMPONENTS std_msgs message_generation)
