@@ -22,7 +22,6 @@ add_service_files(
     FILES
     Configuration.srv
     MoveAbsPos.srv
-    Calibration.srv
 )
 
 ## Generate added messages and services with any dependencies listed here
