@@ -1,0 +1,6 @@
+#
+# Calibrate the joint
+#
+int16 req
+---
+int16 res

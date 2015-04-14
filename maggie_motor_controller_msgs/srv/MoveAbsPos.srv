@@ -2,5 +2,5 @@
 # Move a motor to absolute position
 #
 
-int32 position
+float32 position
 ---

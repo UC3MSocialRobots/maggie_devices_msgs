@@ -8,5 +8,4 @@ float32 max_acc
 float32 max_dec
 float32 cur
 float32 max_cur_lim
-float32 home
 ---
