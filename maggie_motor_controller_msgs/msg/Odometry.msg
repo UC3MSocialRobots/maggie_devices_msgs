@@ -1,6 +1,6 @@
 #
 # Message for odometry sensors
 #
-int32 position
-int32 velocity
-int32 current
+float32 position
+float32 velocity
+float32 current
