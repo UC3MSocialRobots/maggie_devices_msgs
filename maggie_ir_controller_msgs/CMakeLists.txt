@@ -12,7 +12,6 @@ find_package(catkin REQUIRED COMPONENTS message_generation)
 add_message_files(
     DIRECTORY msg
     FILES
-    GetTvAction.msg
     TvActions.msg
 )
 
